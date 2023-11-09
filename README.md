@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: LOKESH N
+### Register Number: 212222100023
+
+![281482184-b099d4f2-dd85-40ed-85df-0632c24fa94e](https://github.com/lokeshnarayanan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393019/b045eb7e-a615-45fa-8f8c-5113ae0044e6)
+
+![281482445-898ee21a-28fa-4739-8347-8545da94ca92](https://github.com/lokeshnarayanan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393019/d2d2b1da-f162-4d7e-9ad9-824ba1b9ad4b)
+
+![281482478-eba9ce95-d1d9-4234-aba4-cd7ae6b57529](https://github.com/lokeshnarayanan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119393019/055b3739-61c2-4163-bdd0-5a2f1a317efd)
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
